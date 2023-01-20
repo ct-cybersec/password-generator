@@ -29,3 +29,5 @@ if password >= 1:
 		print("\033[1;38;2;255;0;0mCome on, you shouldn't be using a password that's less than 6... try again\033[0m 🤦")
 else:
 	print("\033[1;38;2;255;0;0mPlease try again by providing an integer value. Run the program as such:\033[0m\n\033[1mpython pass-gen.py 10\033[0m")
+
+
