@@ -35,7 +35,9 @@ NOTE: Only tested on Kali Linux, because I am lazy & honestly created this out o
 2. Run `python pass-gen.py <any integer i.e. 10>`
 3. Output of password string will be displayed
 
-<div align="center">
+### Example:
+
+<div>
   <a href="https://github.com/ct-cybersec/password-generator">
     <img src="images/pass-gen-gif.gif" alt="Gif" width="488" height="394">
   </a>
