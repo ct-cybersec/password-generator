@@ -29,16 +29,16 @@ NOTE: Only tested on Kali Linux, because I am lazy & honestly created this out o
 
 <!-- USAGE EXAMPLES -->
 ## USAGE
+1. Install Python 3
+2. Run `python pass-gen.py <any integer i.e. 10>`
+3. Output of password string will be displayed
+
 <div align="center">
   <a href="https://github.com/ct-cybersec/password-generator">
     <img src="images/pass-gen-gif.gif" alt="Gif" width="488" height="394">
   </a>
 </div>
 </br>
-
-1. Install Python 3
-2. Run `python pass-gen.py <any integer i.e. 10>`
-3. Output of password string will be displayed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
