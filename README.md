@@ -31,6 +31,7 @@ NOTE: Only tested on Kali Linux, because I am lazy & honestly created this out o
 <!-- USAGE EXAMPLES -->
 ## USAGE
 1. Install Python 3
+2. Clone Password Generator repo: `git clone https://github.com/ct-cybersec/password-generator` OR copy the raw output of [pass-gen.py](https://raw.githubusercontent.com/ct-cybersec/password-generator/main/pass-gen.py) to a python file
 2. Run `python pass-gen.py <any integer i.e. 10>`
 3. Output of password string will be displayed
 
