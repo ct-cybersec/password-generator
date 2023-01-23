@@ -26,13 +26,12 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/ct-cybersec/password-generator">
 
-    <img src="https://i.ibb.co/DKn6KRh/pass-gen-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/pass-gen-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Password Generator</h3>
