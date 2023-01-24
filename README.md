@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ct-cybersec/password-generator">
-    <img src="images/pass-gen-logo.png" alt="Logo" width="488" height="394">
+    <img src="images/pass-gen-logo.png" alt="Logo" width="65%">
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -39,7 +39,7 @@ NOTE: Only tested on Kali Linux, because I am lazy & honestly created this out o
 
 <div>
   <a href="https://github.com/ct-cybersec/password-generator">
-    <img src="images/pass-gen-gif.gif" alt="Gif" width="488" height="394">
+    <img src="images/pass-gen-gif.gif" alt="Gif" width="65%">
   </a>
 </div>
 </br>
